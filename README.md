@@ -5,7 +5,9 @@
  mail：sobne@qq.com 
 ```
 > **Advanced Programmer** 9 years experience in software development(.NET)
+> 
 > professional in system architeckture,software design & program devemlopment.
+> 
 > *Conscientious、Dependably & Responsible*.Strong ability to study、analysis & Good at solving problem.
 
 
