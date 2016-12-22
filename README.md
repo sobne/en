@@ -1,4 +1,4 @@
-#Xiaobin.Xiao_vitae `.Net`
+# Xiaobin.Xiao_vitae `.Net`
 
 ```
  call：18202879957 
@@ -9,7 +9,7 @@
 > *Conscientious、Dependably & Responsible*.Strong ability to study、analysis & Good at solving problem.
 
 
-###Work Experience
+### Work Experience
 
 > `2014.11-Present` | MullenLowe Profero Chengdu |*Computers,Software | <50 people | Foreign Comp.(Eur./N.Amer.)*
 * position：.net developer -> Tech Leader
@@ -25,7 +25,7 @@
 * description：building MIS,ERP,CRM,OA,Workflow...,development for Design integration,IT support
     
  
-###Project Experience
+### Project Experience
 
 > `2015.09-Present` | millennium hotel website
 `asp.net mvc4 | sitecore8 | mssql server 2014 `
@@ -60,22 +60,22 @@
   - piaojuyi:wechat public account
   - open-source project
    
-###Education
+### Education
 
 > `2003-2007` | CSUST
   * Computer Science And Technology
   * Degree - bachelor
 
-###Awards
+### Awards
 > Certifications
 >    * Advanced Programer
   
-###Language
+### Language
 > English
 >    * Listening&Speaking:*Average*
 >    * Reading&Writing:*Good*
    
-###IT Skills
+### IT Skills
   * .NET | asp.net MVC
   * MsSql | Oracle | MySql | Sqlite | Nosql
   * HTML/CSS | javascript | jQuery | EasyUi
@@ -85,14 +85,14 @@
   * PHP | Java | Vb/vba
    
 
-###Social Networking Serivces
+### Social Networking Serivces
   * facebook： https://www.facebook.com/sobne.shaw
   * twitter：  https://twitter.com/sobne
   * linkedin： www.linkedin.com/in/sobne 
   * wechat：   sobne shaw
   * QQ：       84710657
 
-###Career Objective：Promotion opportunity...
+### Career Objective：Promotion opportunity...
 
 [查看中文版本](https://sobne.github.io/zh)
  :e-mail:
