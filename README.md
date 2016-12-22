@@ -2,6 +2,7 @@
 ```
 ```
 # Xiaobin.Xiao_vitae `.Net`  
+
   call：18202879957 | mail：sobne@qq.com 
 
 > **Advanced Programmer** 9 years experience in software development(.NET)  
@@ -11,8 +12,8 @@
 ### Work Experience  
 > `2014.11-Present` MullenLowe Profero Chengdu  
 > *Computers,Software | <50 people | Foreign Comp.(Eur./N.Amer.)*  
-> * position：.net developer -> Tech Leader  
-> * description：e-commerce website building
+>> position：.net developer -> Tech Leader  
+>> description：e-commerce website building
  
 > `2012.4-2014.10` NCS  
 > *Computers,Software | 500-1000 people | Foreign Comp.(Singapore)*  
