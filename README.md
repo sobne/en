@@ -1,14 +1,12 @@
 # Xiaobin.Xiao_vitae `.Net`
 
+>  call：18202879957 | mail：sobne@qq.com 
+
 ```
- call：18202879957 
- mail：sobne@qq.com 
+**Advanced Programmer** 9 years experience in software development(.NET)
+Professional in system architeckture,software design & program devemlopment.
+*Conscientious、Dependably & Responsible*.Strong ability to study、analysis & Good at solving problem.
 ```
-> **Advanced Programmer** 9 years experience in software development(.NET)
-> 
-> professional in system architeckture,software design & program devemlopment.
-> 
-> *Conscientious、Dependably & Responsible*.Strong ability to study、analysis & Good at solving problem.
 
 
 ### Work Experience
