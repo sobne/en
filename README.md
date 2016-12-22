@@ -1,7 +1,5 @@
 
-```
-```
-# Xiaobin.Xiao_vitae `.Net`  
+#  Xiaobin.Xiao_vitae `.Net`  
 
   call：18202879957 | mail：sobne@qq.com 
 
@@ -14,7 +12,7 @@
 > *Computers,Software | <50 people | Foreign Comp.(Eur./N.Amer.)*  
   *  position：.net developer -> Tech Leader  
   *  description：e-commerce website building
- 
+   
 > #### `2012.4-2014.10` NCS  
 > *Computers,Software | 500-1000 people | Foreign Comp.(Singapore)*  
   *  position：Senior Consultant  
@@ -25,11 +23,10 @@
 *Computers,Software | <50 people | Private Comp.*  
   *  position：software engineer  
   *  description：building MIS,ERP,CRM,OA,Workflow...,development for Design integration,IT support
-    
- 
+   
 ### Project Experience  
 > #### `2015.09-Present` millennium hotel website  
-> `asp.net mvc4 | sitecore8 | mssql server 2014 `  
+`asp.net mvc4 | sitecore8 | mssql server 2014 `  
   *  role：TL  
   *  major：system architeckture, requierment analysis, design & development.  
    
@@ -47,7 +44,7 @@
 `asp.net webform | entity framework | mssql server 2008 | Easy ui `  
   *  role：software engineer  
   *  major：system design,software development&tech-support  
-	
+   
 > #### `2007.09-2008.02` Management Information System(hnjy)  
 `asp.net webform | ado.net | mssql server 2005 `  
   *  role：software engineer  
@@ -97,3 +94,6 @@
 [查看中文版本](https://sobne.github.io/zh)
  :e-mail:
  :phone:
+
+```
+```
