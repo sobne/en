@@ -15,45 +15,45 @@
 > * position：.net developer -> Tech Leader  
 > * description：e-commerce website building
  
-> `2012.4-2014.10`  ####  NCS  
+> #### `2012.4-2014.10` NCS  
 > *Computers,Software | 500-1000 people | Foreign Comp.(Singapore)*  
 > * position：Senior Consultant  
 > * description：building PWMS for Singtel,software development,provide technical assistance  
 > * oversea：Yes
    
-> `2007.7-2012.3` CINQ  
+> #### `2007.7-2012.3` CINQ  
 > *Computers,Software | <50 people | Private Comp.*  
 > * position：software engineer  
 > * description：building MIS,ERP,CRM,OA,Workflow...,development for Design integration,IT support
     
  
 ### Project Experience  
-> `2015.09-Present` millennium hotel website  
+> #### `2015.09-Present` millennium hotel website  
 `asp.net mvc4 | sitecore8 | mssql server 2014 `  
   * role：TL  
   * major：system architeckture, requierment analysis, design & development.  
    
-> `2015.01-2015.08` trthealth website development  
+> #### `2015.01-2015.08` trthealth website development  
 `asp.net mvc4 | sitecore7.5 | mssql server 2012 `  
   * role：back-end developer  
   * major：requierment analysis, design & development  
    
-> `2012.04-2014.06` Singtel(PWMS) System Technology Support  
+> #### `2012.04-2014.06` Singtel(PWMS) System Technology Support  
 `asp.net webform | sharepoint 2007 | Oracle 10 `  
   * role：Senior Consultant  
   * major：system maintenance,technical assistance,requierment analysis, design & development  
    
-> `2008.03-2012.03` Management Information System(cinf)  
+> #### `2008.03-2012.03` Management Information System(cinf)  
 `asp.net webform | entity framework | mssql server 2008 | Easy ui `  
    * role：software engineer  
    * major：system design,software development&tech-support  
 	
-> `2007.09-2008.02` Management Information System(hnjy)  
+> #### `2007.09-2008.02` Management Information System(hnjy)  
 `asp.net webform | ado.net | mssql server 2005 `  
    * role：software engineer  
    * major：system design,software development&tech-support  
    
-> other project `full-stack`  
+> #### other project `full-stack`  
   - website management system  
     - first01,jiajuv,ever08 photo,unishroad financing  
     - 0731piao,tomoom  
@@ -62,18 +62,18 @@
   - open-source project  
    
 ### Education  
-> `2003-2007` CSUST  
-  * Computer Science And Technology  
-  * Degree - bachelor
+> #### `2003-2007` CSUST  
+  *  Computer Science And Technology  
+  *  Degree - bachelor
 
 ### Awards  
-> Certifications  
->    * Advanced Programer
+> #### Certifications  
+   *  Advanced Programer
   
 ### Language  
-> English  
->    * Listening&Speaking:*Average*  
->    * Reading&Writing:*Good*
+> #### English  
+   * Listening&Speaking:*Average*  
+   * Reading&Writing:*Good*
    
 ### IT Skills  
   * .NET | asp.net MVC
@@ -86,9 +86,9 @@
    
 
 ### Social Networking Serivces
-  * facebook： https://www.facebook.com/sobne.shaw
-  * twitter：  https://twitter.com/sobne
-  * linkedin： www.linkedin.com/in/sobne 
+  * facebook： https://www.facebook.com/sobne.shaw(https://www.facebook.com/sobne.shaw)
+  * twitter：  https://twitter.com/sobne(https://twitter.com/sobne)
+  * linkedin： www.linkedin.com/in/sobne(www.linkedin.com/in/sobne)
   * wechat：   sobne shaw
   * QQ：       84710657
 
