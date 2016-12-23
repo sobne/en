@@ -9,11 +9,10 @@
 
 ### Work Experience
 
-#### `2014.11-Present` MullenLowe Profero Chengdu
-
-  *Computers,Software | <50 people | Foreign Comp.(Eur./N.Amer.)*  
-  *  position：.net developer -> Tech Leader  
-  *  description：e-commerce website building
+#### `2014.11-Present` MullenLowe Profero Chengdu  
+*Computers,Software | <50 people | Foreign Comp.(Eur./N.Amer.)*  
+*  position：.net developer -> Tech Leader  
+*  description：e-commerce website building
    
 > #### `2012.4-2014.10` NCS  
 > *Computers,Software | 500-1000 people | Foreign Comp.(Singapore)*  
