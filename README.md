@@ -1,8 +1,6 @@
 
 #  Xiaobin.Xiao_vitae `.Net`
 
-* * *
-
   call：18202879957 | mail：sobne@qq.com 
 
 > **Advanced Programmer** 9 years experience in software development(.NET)  
@@ -11,6 +9,8 @@
 
 
 ### Work Experience
+
+* * *
 
 #### `2014.11-Present` MullenLowe Profero Chengdu
 *Computers,Software | <50 people | Foreign Comp.(Eur./N.Amer.)*
@@ -31,12 +31,14 @@
 *   position：software engineer  
 *   description：building MIS,ERP,CRM,OA,Workflow...,development for Design integration,IT support
    
-   
+
+* * *
+
 ### Project Experience
 
 #### `2015.09-Present` millennium hotel website
-`asp.net mvc4 | sitecore8 | mssql server 2014 `
 
+  *  `asp.net mvc4 | sitecore8 | mssql server 2014 `  
   *  role：TL  
   *  major：system architeckture, requierment analysis, design & development.  
    
