@@ -3,24 +3,22 @@
 
   call：18202879957 | mail：sobne@qq.com 
 
-> **Advanced Programmer** 9 years experience in software development(.NET)  
+>   **Advanced Programmer** 9 years experience in software development(.NET)  
 > Professional in system architeckture,software design & program devemlopment.  
 > *Conscientious、Dependably & Responsible*.Strong ability to study、analysis & Good at solving problem.
 
 ### Work Experience
 
 #### `2014.11-Present` MullenLowe Profero Chengdu
-```
-Computers,Software | <50 people | Foreign Comp.(Eur./N.Amer.)
-```
+*Computers,Software | <50 people | Foreign Comp.(Eur./N.Amer.)*
 *   position：.net developer -> Tech Leader  
 *   description：e-commerce website building
    
 > #### `2012.4-2014.10` NCS  
-> *Computers,Software | 500-1000 people | Foreign Comp.(Singapore)*  
-  *  position：Senior Consultant  
-  *  description：building PWMS for Singtel,software development,provide technical assistance  
-  *  oversea：Yes
+*Computers,Software | 500-1000 people | Foreign Comp.(Singapore)*
+*   position：Senior Consultant  
+*   description：building PWMS for Singtel,software development,provide technical assistance  
+*   oversea：Yes
    
 > #### `2007.7-2012.3` CINQ  
 *Computers,Software | <50 people | Private Comp.*  
