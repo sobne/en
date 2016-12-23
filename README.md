@@ -1,3 +1,6 @@
+```
+[查看中文版本](https://sobne.github.io/zh)
+```
 
 #  Xiaobin.Xiao_vitae `.Net`
 
@@ -109,9 +112,10 @@
   * wechat：   sobne shaw
   * QQ：       84710657
 
+  
 ### Career Objective：Promotion opportunity...
 
-[查看中文版本](https://sobne.github.io/zh)
+
  :e-mail:
  :phone:
 
