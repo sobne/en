@@ -8,7 +8,7 @@
 > *Conscientious、Dependably & Responsible*.Strong ability to study、analysis & Good at solving problem.
 
 
-### Work Experience
+### **Work Experience**
 
 * * *
 
@@ -30,9 +30,10 @@
 
 *   position：software engineer  
 *   description：building MIS,ERP,CRM,OA,Workflow...,development for Design integration,IT support
-   
+    
+	
 
-### Project Experience
+### **Project Experience**
 
 * * *
 
@@ -74,6 +75,7 @@
   - piaojuyi:wechat public account  
   - open-source project  
    
+
 ### Education  
 > #### `2003-2007` CSUST  
   *  Computer Science And Technology  
@@ -89,13 +91,15 @@
    * Reading&Writing:*Good*
    
 ### IT Skills  
-  * .NET | asp.net MVC
-  * MsSql | Oracle | MySql | Sqlite | Nosql
-  * HTML/CSS | javascript | jQuery | EasyUi
-  * Webservice | Webapi | Wcf | Remoting
-  * AutoCAD | Office sencondary development
-  * socket | program with serial port
-  * PHP | Java | Vb/vba
+```
+   .NET | asp.net MVC
+   MsSql | Oracle | MySql | Sqlite | Nosql
+   HTML/CSS | javascript | jQuery | EasyUi
+   Webservice | Webapi | Wcf | Remoting
+   AutoCAD | Office sencondary development
+   socket | program with serial port
+   PHP | Java | Vb/vba
+```
    
 
 ### Social Networking Serivces
@@ -105,12 +109,11 @@
   * wechat：   sobne shaw
   * QQ：       84710657
 
-```
 ### Career Objective：Promotion opportunity...
-```
 
 [查看中文版本](https://sobne.github.io/zh)
  :e-mail:
  :phone:
+
 
 
