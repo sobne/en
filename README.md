@@ -32,9 +32,9 @@
 *   description：building MIS,ERP,CRM,OA,Workflow...,development for Design integration,IT support
    
 
-* * *
-
 ### Project Experience
+
+* * *
 
 #### `2015.09-Present` millennium hotel website
 
@@ -43,26 +43,26 @@
   *  major：system architeckture, requierment analysis, design & development.  
    
 #### `2015.01-2015.08` trthealth website development
-`asp.net mvc4 | sitecore7.5 | mssql server 2012 `
 
+  *  `asp.net mvc4 | sitecore7.5 | mssql server 2012 `
   *  role：back-end developer  
   *  major：requierment analysis, design & development
    
 #### `2012.04-2014.06` Singtel(PWMS) System Technology Support
-`asp.net webform | sharepoint 2007 | Oracle 10 `
 
+  *  `asp.net webform | sharepoint 2007 | Oracle 10 `
   *  role：Senior Consultant  
   *  major：system maintenance,technical assistance,requierment analysis, design & development
    
 #### `2008.03-2012.03` Management Information System(cinf)
-`asp.net webform | entity framework | mssql server 2008 | Easy ui `
 
+  *  `asp.net webform | entity framework | mssql server 2008 | Easy ui `
   *  role：software engineer  
   *  major：system design,software development&tech-support
    
 #### `2007.09-2008.02` Management Information System(hnjy)
-`asp.net webform | ado.net | mssql server 2005 `
 
+  *  `asp.net webform | ado.net | mssql server 2005 `
   *  role：software engineer  
   *  major：system design,software development&tech-support
    
@@ -105,11 +105,12 @@
   * wechat：   sobne shaw
   * QQ：       84710657
 
+```
 ### Career Objective：Promotion opportunity...
+```
 
 [查看中文版本](https://sobne.github.io/zh)
  :e-mail:
  :phone:
 
-```
-```
+
