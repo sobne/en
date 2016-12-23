@@ -7,8 +7,10 @@
 > Professional in system architeckture,software design & program devemlopment.  
 > *Conscientious、Dependably & Responsible*.Strong ability to study、analysis & Good at solving problem.
 
-### Work Experience  
-#### `2014.11-Present` MullenLowe Profero Chengdu  
+### Work Experience
+
+#### `2014.11-Present` MullenLowe Profero Chengdu
+
   *Computers,Software | <50 people | Foreign Comp.(Eur./N.Amer.)*  
   *  position：.net developer -> Tech Leader  
   *  description：e-commerce website building
@@ -83,7 +85,7 @@
    
 
 ### Social Networking Serivces
-  * facebook： [](https://www.facebook.com/sobne.shaw)
+  * facebook： [https://www.facebook.com/sobne.shaw](https://www.facebook.com/sobne.shaw)
   * twitter：  [https://twitter.com/sobne](https://twitter.com/sobne)
   * linkedin： [www.linkedin.com/in/sobne](www.linkedin.com/in/sobne)
   * wechat：   sobne shaw
