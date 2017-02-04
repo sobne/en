@@ -18,26 +18,26 @@
 
 * * *
 
-#### `2014.12-Present` MullenLowe Profero Chengdu
+#### `Dec 2014-Present` MullenLowe Profero Chengdu
 *Internet/E-commerce | 1000-5000 people | Foreign Comp.(Eur./N.Amer.)*
 
 *   position：.net developer -> Tech Leader  
 *   description：e-commerce website building
    
-#### `2014.08-2014.12` CORELAND
+#### `Aug 2014-Dec 2014` CORELAND
 *Computers,Software | 50-150 people | Private Comp.*
 
 *   position：Senior Software Engineer  
 *   description：paas of MIS for SCMCC
    
-#### `2012.4-2014.08` NCS
+#### `Apr 2012-Aug 2014` NCS
 *Computers,Software | 5000-10000 people | Foreign Comp.(Singapore)*
 
 *   position：Senior Consultant  
 *   description：building PWMS for Singtel,software development,provide technical assistance  
 *   oversea：Yes
    
-#### `2007.7-2012.3` CINQ
+#### `Jul 2007-Mar 2012` CINQ
 *Computers,Software | <50 people | Private Comp.*
 
 *   position：software engineer  
@@ -49,31 +49,31 @@
 
 * * *
 
-#### `2015.09-Present` millennium hotel website
+#### `Sep 2015-Present` millennium hotel website
 
   *  `asp.net mvc4 | sitecore8 | mssql server 2014 `  
   *  desc：e-commerce website building, include order,membership,ticket...  
   *  role：TL - system architeckture, requierment analysis, design & development  
    
-#### `2015.01-2015.08` trthealth website development
+#### `Jan 2015-Aug 2015` trthealth website development
 
   *  `asp.net mvc4 | sitecore7.5 | mssql server 2012 `
   *  desc：trthealth website development, include product,article...  
   *  role：back-end developer - requierment analysis, design & development
    
-#### `2014.08-2014.12` paas for SCMCC
+#### `Aug 2014-Dec 2014` paas for SCMCC
 
   *  `asp.net mvc | webapi | remoting | sharepoint 2012 | sqlserver 2012 `
   *  desc：develop service for MIS by using DDD.  
   *  role：Senior Software Engineer - system maintenance & development
    
-#### `2012.04-2014.06` Singtel(PWMS) System Technology Support
+#### `Apr 2012-Jun 2014` Singtel(PWMS) System Technology Support
 
   *  `asp.net webform | sharepoint 2007 | Oracle 10 `
   *  desc：Workflow system based on sharepoint, include project management & costing management.  
   *  role：Senior Consultant - system maintenance,technical assistance,requierment analysis, design & development
    
-#### `2008.03-2012.03` Management Information System(cinf)
+#### `Mar 2008-Mar 2012` Management Information System(cinf)
 
   *  `asp.net webform | entity framework | mssql server 2008 | Easy ui `
   - desc：Enterprise MIS, Design integration system, include: 
@@ -85,7 +85,7 @@
     - ERP,CRM,OA
   - role：software engineer - system design,software development&tech-support
    
-#### `2007.09-2008.02` Management Information System(hnjy)
+#### `Sep 2007-Feb 2008` Management Information System(hnjy)
 
   *  `asp.net webform | ado.net | mssql server 2005 `
   *  desc：project management, design integration system , KPI system, OA...  
